@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou a Flávia Celine 👋
 
-<!--
-**flaviaceline01/flaviaceline01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estudando para ser desenvolvedora Front-End.
+- 🌱 Estudando, HTML, CSS, Javascript.
+- ✌ Gosto muito da parte de UI/UX design.
+- 📫 Contate-me no email: flaviaceline3835@gmail.com.
+
+
+<div>
+    <a href="https://github.com/flaviaceline01">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaceline01&layout&theme=dark&include=compact">
+    
+    
