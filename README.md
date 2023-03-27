@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudando para ser desenvolvedora Front-End.
 - 🌱 Estudando HTML, CSS, Javascript.
-- ✌ Gosto muito da parte de UI/UX design.
+- ✌ Gosto muito da parte de UX/UI design.
 - 📫 Contate-me no email: flaviaceline3835@gmail.com.
 
 
