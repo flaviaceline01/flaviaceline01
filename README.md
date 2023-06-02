@@ -8,11 +8,6 @@
 - 📫 Contate-me no email: flaviaceline3835@gmail.com.
 
 
-<div>
-    <a href="https://github.com/flaviaceline01">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaceline01&layout&theme=transparent&include=compact">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=flaviaceline01&show_icons=true&theme=transparent">
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="flavia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
