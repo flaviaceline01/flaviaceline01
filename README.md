@@ -4,6 +4,7 @@
 
 - 🔭 Tenho me dedicado à área de análise de dados.
 - 🐍 Estudando Python.
+- 🎲 Excel, PowerBi.
 - 👩‍💻 Atuo como analista de dados e mídias sociais.
 - 📫 Contate-me no email: flaviaceline3835@gmail.com.
 
