@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente estudando para ser desenvolvedora Front-End.
-- 🌱 Estudando HTML, CSS, Javascript.
-- ✌ Gosto muito da parte de UX/UI design.
+- 🔭 Tenho me dedicado à área de análise de dados.
+- 🐍 Estudando Python.
+- 👩‍💻 Atuo como analista de dados e mídias sociais.
 - 📫 Contate-me no email: flaviaceline3835@gmail.com.
 
 
@@ -13,6 +13,8 @@
   <img align="center" alt="flavia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="flavia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="flavia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="flavia-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
     
 </div>
     
