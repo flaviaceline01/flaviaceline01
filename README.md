@@ -6,7 +6,7 @@
 - 🐍 Estudando Python.
 - 🎲 Excel, PowerBi.
 - 👩‍💻 Atuo como analista de dados e mídias sociais.
-- 📫 Contate-me no email: flaviaceline3835@gmail.com.
+- 📫 Contate-me no email: flaviaceline01@gmail.com.
 
 
 
@@ -24,7 +24,7 @@
     
 <div>
     <a href= "https://www.linkedin.com/in/fl%C3%A1via-celine/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href= "mailto:flaviaceline3835@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+    <a href= "mailto:flaviaceline01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
     </div>
     
     
